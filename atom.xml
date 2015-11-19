@@ -4,7 +4,7 @@
   
   <link href="http://drwaiting.github.io/atom.xml" rel="self"/>
   <link href="http://drwaiting.github.io/"/>
-  <updated>2015-11-19T04:05:03.000Z</updated>
+  <updated>2015-11-19T12:32:22.000Z</updated>
   <id>http://drwaiting.github.io/</id>
   
   <author>
@@ -19,8 +19,9 @@
     <link href="http://drwaiting.github.io/2015/11/19/hello-world/"/>
     <id>http://drwaiting.github.io/2015/11/19/hello-world/</id>
     <published>2015-11-19T04:39:04.000Z</published>
-    <updated>2015-11-19T04:05:03.000Z</updated>
+    <updated>2015-11-19T12:32:22.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo <span class="keyword">new</span> <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run_server">Run server</h3><figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo <span class="keyword">server</span></span><br></pre></td></tr></table></figure>
@@ -31,7 +32,8 @@
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>]]>
+    
     </summary>
     
       <category term="随笔" scheme="http://drwaiting.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
