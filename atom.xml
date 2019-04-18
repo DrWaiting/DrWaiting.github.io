@@ -4,7 +4,7 @@
   
   <link href="http://drwaiting.github.io/atom.xml" rel="self"/>
   <link href="http://drwaiting.github.io/"/>
-  <updated>2015-11-19T12:32:22.000Z</updated>
+  <updated>2019-04-18T04:17:44.419Z</updated>
   <id>http://drwaiting.github.io/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[continue]]></title>
+    <link href="http://drwaiting.github.io/2019/04/18/continue/"/>
+    <id>http://drwaiting.github.io/2019/04/18/continue/</id>
+    <published>2019-04-18T04:12:00.000Z</published>
+    <updated>2019-04-18T04:17:44.419Z</updated>
+    <content type="html"><![CDATA[<h4 id="毕业很久久">毕业很久久</h4><p>今天上午仔细想了一下自己需要提升哪方面的能力，写作和思考总结能力无疑是我现在缺乏的，既然是自己学习和值得认真对待的事情，那就早点开始，不要等到热情一过再追悔。</p>
+<p>从工作了四年和大学四年的对比来看，自己收获得不是太多，最要的原因是没有自我认同感，没有对自己努力和做事的结果进行总结和包装，在前行的路上小打小闹，对行业没有清晰的认知和规划。</p>
+<p>github账号是在毕业的时候创建的，这里目前是一个性价比很高的平台，到现在荒废了很多年。现在重新拿起继续前行。</p>
+<blockquote>
+<p>做能长期的折腾折磨自己的事情，在压力下前行</p>
+<p>人生就是一场trade off，每个人起点都不一样，你知道你一路走来都放弃了什么，珍惜你所争取的。不要对别人太羡慕，不要和别人做对比，活在当下</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="毕业很久久">毕业很久久</h4><p>今天上午仔细想了一下自己需要提升哪方面的能力，写作和思考总结能力无疑是我现在缺乏的，既然是自己学习和值得认真对待的事情，那就早点开始，不要等到热情一过再追悔。</p>
+<p>从工作了四年和大学四年的对比来看，自己收获得不是太]]>
+    </summary>
+    
+      <category term="生活" scheme="http://drwaiting.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="默认分类" scheme="http://drwaiting.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
@@ -34,23 +59,6 @@
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="http://hexo.io/">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>]]>
     
-    </summary>
-    
-      <category term="随笔" scheme="http://drwaiting.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-      <category term="默认分类" scheme="http://drwaiting.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test]]></title>
-    <link href="http://drwaiting.github.io/2015/11/19/test/"/>
-    <id>http://drwaiting.github.io/2015/11/19/test/</id>
-    <published>2015-11-19T03:44:13.000Z</published>
-    <updated>2015-11-19T03:47:11.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="这单纯的就是一片散文">这单纯的就是一片散文</h3>]]></content>
-    <summary type="html">
-    <![CDATA[<h3 id="这单纯的就是一片散文">这单纯的就是一片散文</h3>]]>
     </summary>
     
       <category term="随笔" scheme="http://drwaiting.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
